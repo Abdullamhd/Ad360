@@ -18,4 +18,12 @@ Workflow Setup
 
 
 
+Scrappy Debugger 
+```
+scrapy shell 'https://addata.gov.ae/search/type/dataset'
+
+```
+
+
+
 

@@ -27,7 +27,13 @@ scrapy shell 'https://addata.gov.ae/search/type/dataset'
 
 
 
-## Demo:
+## Live Demo:
+```
+http://ad360.vemu.io/public/dashboards/LGO0mNP8xVde74Kb1iHnCp0iyPI9ez0KJTbhGzFL?org_slug=default
+```
+
+## Admin Panel: 
+(Credential upon request)
 ```
 http://ad360.vemu.io/dashboard/ad360
 ```
